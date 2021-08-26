@@ -9,6 +9,7 @@ namespace ProyectoSuppcenter.Models.Usuario
     {
         int Numero;
         int nombre;
+        int numero = 1;
         //ramas
     }
 }
